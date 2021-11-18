@@ -17,9 +17,9 @@ so THAT I can be informed on the upcoming weather!
 
 
 ## Respository Link
-
+https://github.com/Kerrius/Weather-Dashboard
 
 
 ## Website Link
-
+https://kerrius.github.io/Weather-Dashboard/
 
